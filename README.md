@@ -1,4 +1,4 @@
 
 # Hello, my name's SublimeCosmo
 
-That's all for now...
+I use JS, HTML + CSS, & Python.
